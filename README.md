@@ -31,6 +31,8 @@ run `M-x package-install-file RET </path/to/insert-esv.el> RET`.
 
 ## Disclaimer
 
+* InsertESV is licensed under
+  [GPLv3](https://github.com/sam030820/insert-esv/blob/master/COPYING).
 * Scripture quotations are from the ESV® Bible, copyright © 2001
   by Crossway, a publishing ministry of Good News Publishers.
 
