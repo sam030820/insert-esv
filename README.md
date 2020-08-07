@@ -1,6 +1,6 @@
 **insert-esv is an Emacs package for inserting ESV Bible passages.**
 
-<img src="insert-esv.gif" width="500"/>
+<img src="insert-esv.gif" width="600"/>
 
 ## Installation
 
