@@ -1,4 +1,4 @@
-**InsertESV is an Emacs package for inserting ESV Bible passages.**
+**insert-esv is an Emacs package for inserting ESV Bible passages.**
 
 ## Installation
 
@@ -23,7 +23,7 @@ run `M-x package-install-file RET </path/to/insert-esv.el> RET`.
 
 ## Options
 
-* InsertESV contains support for the optional parameters in
+* insert-esv contains support for the optional parameters in
   Crossway's [Passage Text API](https://api.esv.org/docs/passage-text/).
 * You can customise these parameters in your init file.
 * Make sure to prefix the parameter with "insert-esv", like this:
@@ -31,7 +31,7 @@ run `M-x package-install-file RET </path/to/insert-esv.el> RET`.
 
 ## Disclaimer
 
-* InsertESV is licensed under
+* insert-esv is licensed under
   [GPLv3](https://github.com/sam030820/insert-esv/blob/master/COPYING).
 * Scripture quotations are from the ESV® Bible, copyright © 2001
   by Crossway, a publishing ministry of Good News Publishers.
