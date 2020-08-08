@@ -4,7 +4,7 @@
 
 ;; Author: Sam (sam030820)
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "24.3"))
+;; Package-Requires: ((emacs "24.3") (request "0.3.2"))
 ;; Keywords: convenience
 ;; URL: https://github.com/sam030820/insert-esv/
 
