@@ -1,5 +1,3 @@
-Thanks for submitting a pull request!
-
 ## Description
 Describe the change and any relevant context.
 
