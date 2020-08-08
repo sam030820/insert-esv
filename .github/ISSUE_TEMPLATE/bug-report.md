@@ -1,13 +1,11 @@
 ---
 name: Bug report
 about: Report an issue with insert-esv
-title: "[Bug] "
+title: ''
 labels: bug
 assignees: sam030820
 
 ---
-
-Thanks for reporting an issue!
 
 ## Expected behaviour
 Describe what you expected to happen.
