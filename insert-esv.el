@@ -150,7 +150,7 @@
   :group 'insert-esv)
 
 (defcustom insert-esv-indent-using 'space
-  "Set indentation. Must be space or tab."
+  "Set indentation (must be space or tab)."
   :type '(radio (space)
                 (tab))
   :group 'insert-esv)
