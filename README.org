@@ -4,6 +4,10 @@
 
 *insert-esv is an Emacs package for inserting ESV Bible passages.*
 
+[[https://github.com/sam030820/insert-esv/actions][file:https://img.shields.io/github/workflow/status/sam030820/insert-esv/check.svg]]
+[[https://melpa.org/#/insert-esv][file:https://melpa.org/packages/insert-esv-badge.svg]]
+[[/COPYING][file:https://img.shields.io/badge/license-GPL_v3-green.svg]]
+
 ** Installation
 insert-esv is available from [[https://melpa.org/#/getting-started][MELPA]].
 
