@@ -8,10 +8,10 @@ assignees: sam030820
 ---
 
 ## Proposed solution
-Describe what you want to happen.
+<!-- Describe what you want to happen. -->
 
 ## Alternatives
-Describe any alternative solutions or features you've considered.
+<!-- Describe any alternative solutions or features you've considered. -->
 
 ## Additional context
-Add any other context or screenshots about the feature request here.
+<!-- Add any other information about your feature request here. -->
