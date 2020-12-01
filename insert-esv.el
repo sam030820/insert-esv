@@ -189,8 +189,7 @@
 (defun insert-esv-passage (ref)
   "Insert an English Standard Version Bible passage (REF) at point."
   (interactive
-   (list (read-string "Enter Bible reference:
-" nil 'insert-esv-log)))
+   (list (read-string "Enter Bible reference: " nil 'insert-esv-log)))
   (if (equal 'nil insert-esv-crossway-api-key)
       (error "Error! You must set `insert-esv-crossway-api-key` first"))
   (request "https://api.esv.org/v3/passage/text/"
