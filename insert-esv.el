@@ -63,7 +63,7 @@
 ;; - This package contains support for the optional parameters in Crossway's
 ;;   [[https://api.esv.org/docs/passage-text/][Passage Text API]].
 ;; - You can customise these parameters in your init file.
-;; - Make sure to prefix each parameter with "insert-esv", like this:
+;; - Make sure to prefix each parameter with the package name:
 ;;   ~(setq insert-esv-include-headings 'true)~.
 ;;
 ;; ** Disclaimer
