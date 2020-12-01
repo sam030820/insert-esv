@@ -1,2 +1,14 @@
-*-autoloads.el
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
 *.elc
+auto-save-list
+tramp
+.\#*
+*-autoloads.el
+*_flymake.*
+flycheck_*.el
+.projectile
+.DS_Store
